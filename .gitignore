@@ -1,1 +1,27 @@
+<doctype html>
+<html>
+    <head>
+        <title>HTML FORMS</title>
+    </head>
+    <body>
 
+        <h1>HTML forms</h1>
+
+        <form>
+            <labe for="username">Enter username:</labe>
+            <input type="text" id="username" name="username">
+        
+<br>
+<br>
+           <label for="email">Enter email:</label>
+            <input type="text" id="email" name="email">
+   
+<br>
+<br>
+
+        
+            <label for="password"></label>Enter password:</label>
+            <input type="text" id="password" name="password">
+        </form>
+    </body>
+</html>
