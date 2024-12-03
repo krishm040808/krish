@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html 
+name="viewport" content="=device-width, initial-scale=1.0">
+  <title>Top Right Menu and Search Bar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+ 
+    header {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      padding: 10px 20px;
+      background-color: #333;
+      color: white;
+    }
+
+    
+    .header-right {
+      display: flex;
+      align-items: center;
+    }
+
+    
+    .menu {
+      margin-right: 20px;
+      list-style: none;
+      display: flex;
+    }
+
+    .menu li {
+      margin: 0 10px;
+    }
+
+    .menu a {
+      text-decoration: none;
+      color: white;
+      font-size: 16px;
+    }
+
+    
+  
+
+ 
+    .search-bar {
+      padding: 5px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+
+ 
+  <header>
+   
+    <div class="header-right">
+      
+      <ul class="menu">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#cars for sales">cars for sales</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+
+      <input class="search-bar" type="text" placeholder="Search...">
+    </div>
+  </header>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+
+</body>
+</html>
+
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+<div>This is a div.</div>
+
+</body>
+</html>
