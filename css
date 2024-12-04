@@ -5,7 +5,8 @@
 }
 
 header.{
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5),( rgba(0, 0, 0, 0.5),( rgba(0, 0, 0, 0.5)  background-image: url("classical car.jp");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5),( rgba(0, 0, 0, 0.5),( rgba(0, 0, 0, 0.5);
+    background-image: url("classical car.jp");
     height: 100vh;
     backgroud-size: cover;
     background-position: century;
