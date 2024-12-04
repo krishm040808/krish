@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ancient Wheels</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <Div class="main">
+            <ul>
+                <l1> <a href="#">Home</a></l1>
+                <li> <a href="#">classical cars for sale</a></li>
+                <li> <a href="#">services</a></li>
+                <li> <a href="#">contact us</a></li>
+            </ul>
+        </Div>
+    </header>
+</body>
+</html>   
